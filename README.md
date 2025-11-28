@@ -55,6 +55,7 @@ Key measures implemented in the report include:
 - `Import Dependency Ratio`
 - `YoY Export Growth`
 - `Diversification Index`
+- `Investment score`
 
 These metrics allow robust comparison across countries and regions.
 
